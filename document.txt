@@ -1,0 +1,18 @@
+There is the Online Magaine Projet that Has been built by Team Gamer ("Abdumalik", "Raj", "Koruna", "Jivan", "Azizah"). We decided  to choose this topic
+because in the current days despite the popularity of the gaming industry There is no worth magazine about Gaming content.So we decided to create one.
+
+
+Design of the Magazine has been mutually choosen by our group we decided to use pixel font because we thought this is the most suitable for gaming content.However
+reading pixel style font can be difficult to read for someone but as mainly  gamers are younger generation we think the will not have a problem to read it.
+
+
+Html part has been built by Malik and Raj, while Style.css was Girls duty. Jivan actively participated on finding informations and related topics.
+When it comes to color mixtures it is a bit unusuall but as it can be seen on style we mainly focused on CyberPunk style.
+
+As example we choosed online option of VOGUE fashion Magazine.
+
+During the creation of the  website we faced problem of font-weight becuase we tried to make pixel style a bit readable.
+Secondly footer section was problem too.Becuase Animations of footers was a bit difficult to code.
+
+Advantages of this assigmnt was huge experience of coding in the group.We learnt how to code 3 to 4 people simultaneously.We find an extension such as Code together which allow us to code with our friends
+
